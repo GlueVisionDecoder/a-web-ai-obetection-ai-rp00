@@ -1,4 +1,4 @@
-# 
+# Lightweight A web AI object detection presets. Featuring AI-scalability and automated-decision-making — optimized for maximum performance.
 
 
 
